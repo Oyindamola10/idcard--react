@@ -1,0 +1,23 @@
+
+
+.card{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+    background-image: linear-gradient( darkblue, white);
+    padding: 24px;
+    width: 200px;
+    
+}
+
+.card img{
+    width: 130px;
+    height: 130px;
+    border-radius: 70px;
+    border: 8px solid white;
+}
+.card i{
+    margin: 5px;
+}
